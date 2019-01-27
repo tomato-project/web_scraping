@@ -1,2 +1,2 @@
-# web_scrapint
+# web_scraping
 webs_scraping project
